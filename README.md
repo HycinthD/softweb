@@ -733,7 +733,6 @@ border:2px solid white;
 ## OUTPUT:
 
 ![Alt text](<Screenshot (106).png>)
-![Alt text](<Screenshot (101).png>)
 ![Alt text](<Screenshot (102).png>)
 ![Alt text](<Screenshot (103).png>)
 ![Alt text](<Screenshot (104).png>)
