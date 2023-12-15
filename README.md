@@ -29,7 +29,7 @@ Publish the website in the given URL.
 
 ## PROGRAM:
 ```
-INO-ACURA.html
+INO-ACURA
 <html>
 <title>INO-ACURA</title>
 <style>
@@ -150,20 +150,20 @@ INO-ACURA.html
 <body >
     <form class="styled ">
         <div class=>
-            <a href="mainpage.html">
+            <a href="mainpage">
                 <input type="button" value="HOME">
             </a>
-            <a href="products.html">
+            <a href="products">
                 <input type="button" value="OUR PRODUCTS">
             </a>
 
-            <a href="about.html">
+            <a href="about">
                 <input type="button" value="ABOUT US">
             </a>
-            <a href="sign.html">
+            <a href="sign">
                 <input type="button" value="SIGN IN">
             </a>
-            <a href="contact.html">
+            <a href="contact">
                 <input type="button" value="CONTACT">
             </a>  
             <input type="text">
@@ -174,7 +174,7 @@ INO-ACURA.html
     <h1>WELCOME TO INO-ACURA</h1>
     <h2>The Power Of Innovation</h2>
     <h2>PRODUCTS</h2>
-    <a href="sign.html">
+    <a href="sign">
         <input type="button" value="JOIN US" class="join">
     </a>  
     
@@ -184,13 +184,13 @@ INO-ACURA.html
         <div class="login">
             <div class="login-box">
             <p style="color: green;">DONT HAVE AN ACCOUNT</p>
-            <a href="sign.html">
+            <a href="sign">
                 <input type="button" value="SIGN IN"><br><br>
             </a>  
             <p style="color: green;">LOGIN</p>
             <input type="text" value="Username or email" ><br><br>
             <input type="text" value="Password"><br><br>
-            <a href="products.html">
+            <a href="products">
                 <input type="submit" value="SUBMIT"><br><br>
             </a>  
         </div>
@@ -203,7 +203,7 @@ INO-ACURA.html
 </footer>
 </html>
 
-products.html
+products
 <html>
     <title>our products</title>
     <style>  
@@ -256,19 +256,19 @@ products.html
     <body>
         <form class="styled ">
             <div class=>
-                <a href="mainpage.html">
+                <a href="mainpage">
                     <input type="button" value="HOME">
                 </a>
-                <a href="products.html">
+                <a href="products">
                     <input type="button" value="OUR PRODUCTS">
                 </a>
-                <a href="about.html">
+                <a href="about">
                     <input type="button" value="ABOUT US">
                 </a>
-                <a href="sign.html">
+                <a href="sign">
                     <input type="button" value="SIGN IN">
                 </a>
-                <a href="contact.html">
+                <a href="contact">
                     <input type="button" value="CONTACT">
                 </a>  
                 <input type="text">
@@ -286,7 +286,7 @@ products.html
     </footer>
 </html>
 
-about.html
+about
 <html>
 <title>about us</title>
 <style>
@@ -356,19 +356,19 @@ about.html
 <body>
     <form class="styled ">
         <div class=>
-            <a href="mainpage.html">
+            <a href="mainpage">
                 <input type="button" value="HOME">
             </a>
-            <a href="products.html">
+            <a href="products">
                 <input type="button" value="OUR PRODUCTS">
             </a>
-            <a href="about.html">
+            <a href="about">
                 <input type="button" value="ABOUT US">
             </a>
-            <a href="sign.html">
+            <a href="sign">
                 <input type="button" value="SIGN IN">
             </a>
-            <a href="contact.html">
+            <a href="contact">
                 <input type="button" value="CONTACT">
             </a>  
             <input type="text">
@@ -409,7 +409,7 @@ about.html
 </footer>
 </html>
 
-sign.html
+sign
 <!DOCTYPE html>
 <html>
 <head>
@@ -504,19 +504,19 @@ sign.html
 <body>
     <form class="styled ">
         <div class=>
-            <a href="mainpage.html">
+            <a href="mainpage">
                 <input type="button" value="HOME">
             </a>
-            <a href="products.html">
+            <a href="products">
                 <input type="button" value="OUR PRODUCTS">
             </a>
-            <a href="about.html">
+            <a href="about">
                 <input type="button" value="ABOUT US">
             </a>
-            <a href="sign.html">
+            <a href="sign">
                 <input type="button" value="SIGN IN">
             </a>
-            <a href="contact.html">
+            <a href="contact">
                 <input type="button" value="CONTACT">
             </a>  
             <input type="text">
@@ -561,7 +561,7 @@ sign.html
 </footer>
 </html>
 
-contact.html
+contact
 <!DOCTYPE html>
 <html>
 <head>
@@ -675,19 +675,19 @@ border:2px solid white;
 <body>
     <form class="styled">
         <div>
-            <a href="mainpage.html">
+            <a href="mainpage">
                 <input type="button" value="HOME">
             </a>
-            <a href="products.html">
+            <a href="products">
                 <input type="button" value="OUR PRODUCTS">
             </a>
-            <a href="about.html">
+            <a href="about">
                 <input type="button" value="ABOUT US">
             </a>
-            <a href="sign.html">
+            <a href="sign">
                 <input type="button" value="SIGN IN">
             </a>
-            <a href="contact.html">
+            <a href="contact">
                 <input type="button" value="CONTACT">
             </a>
             <input type="text" >
